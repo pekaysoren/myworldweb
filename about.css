@@ -1,0 +1,22 @@
+#d1{
+      width:80%;
+      height:260px;
+      margin-top:-50px;
+      margin-right:-100px;
+      background-color:skyblue;
+}fieldset{
+	width:60%;
+	height:400px;
+	background-color: #dee0df;
+}h1{
+	line-height:-60%;
+}h2{
+	margin-right:400px;
+}#d2{
+	line-height:20px;
+	font-weight:10px;
+	margin-right:60px;
+}p{
+	font-size:15px;
+	font-weight: bold;
+}

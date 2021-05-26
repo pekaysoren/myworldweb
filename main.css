@@ -1,0 +1,36 @@
+*{
+	padding: 0px;
+	margin:0px;
+}
+.t1{
+	background-color: #6cf09e;
+	width: 100%;
+	height:100px;
+	position: fixed;
+}div span{
+	font-size: 30px;
+	font-weight:bold;
+	margin-left:70px;
+	line-height:80px;
+
+}.footer{
+	width:100%;
+	height:150px;
+	background-color:#b4aab5;
+}.footer1{
+	margin-left:80px;
+	margin-top:-40px;
+}.msg{
+	margin-left:500px;
+	margin-top:-15px;
+}.msg2{
+	margin-top:-20px;
+}table tr td h3:hover{
+	background-color:yellow;
+}.svg-icon{
+	 height:25px;
+     margin:0px 10px -3px 25px;
+}.social{
+margin-left: 1050px;
+margin-top:-90px;
+}
